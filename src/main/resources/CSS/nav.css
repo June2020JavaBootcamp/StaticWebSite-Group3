@@ -90,3 +90,18 @@ dropbtn {
         text-align: left;
     }
 }
+body {
+    background-image:url("http://joycekjoseph.duckdns.org:6723/images/web/StaticRecipe/001.jpg") ;
+}
+.home
+{
+    font-family: "Franklin Gothic Medium";
+    position: absolute;
+    top: 200px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 100px;
+    color : white;
+    background-color: #4CAF50;
+    font-weight: bolder;
+}

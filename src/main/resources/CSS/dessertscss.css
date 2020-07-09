@@ -26,6 +26,10 @@
 .topnav .icon {
     display: none;
 }
+body{
+    background-color: pink;
+}
+
 /*.topnav {*/
 /*    background-color: blanchedalmond;*/
 /*    overflow: hidden;*/
