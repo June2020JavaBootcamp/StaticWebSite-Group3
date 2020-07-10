@@ -91,7 +91,7 @@ dropbtn {
     }
 }
 body {
-    background-image:url("http://joycekjoseph.duckdns.org:6723/images/web/StaticRecipe/001.jpg") ;
+    background-image:url("https://img.freepik.com/free-photo/watercolor-splash-background_23-2148175602.jpg?size=626&ext=jpg") ;
 }
 .home
 {
@@ -104,4 +104,12 @@ body {
     color : white;
     background-color: #4CAF50;
     font-weight: bolder;
+}
+.circular-square
+{
+    border-radius: 50%;
+    position: absolute;
+    top: 500px;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
